@@ -1,0 +1,31 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+
+.table{
+    border: 1px solid black;
+    min-height: 20vh;
+    min-width: 50vw;
+    background-color: black;
+
+}
+.col td{
+    border: 1px solid black;
+    background-color: white;
+    text-align: center;
+}
+.col1 td{
+    border: 1px solid black;
+    background-color: white;
+    text-align: center;
+}
+.col2 td{
+    border: 1px solid black;
+    background-color: white;
+    text-align: center;
+}
+.button{
+    margin-top: 40%;
+margin-bottom: 10%;
+}
